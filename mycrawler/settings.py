@@ -113,7 +113,7 @@ SCHEDULER_IDLE_BEFORE_CLOSE = 10
 
 
 # Specify the host and port to use when connecting to Redis (optional).
-REDIS_HOST = 'localhost'
+REDIS_HOST = '192.168.150.131'
 REDIS_PORT = 6379
 
 # Specify the full Redis URL for connecting (optional).
